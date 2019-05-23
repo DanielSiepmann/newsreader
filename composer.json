@@ -1,0 +1,19 @@
+{
+    "name": "daniels/newsreader",
+    "description": "A news reader written in PHP.",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Daniel Siepmann",
+            "email": "coding@daniel-siepmann.de"
+        }
+    ],
+    "require": {
+        "php-di/php-di": "^6.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.1",
+        "infection/infection": "^0.13.1"
+    }
+}
